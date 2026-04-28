@@ -1,8 +1,3 @@
-<p align="center">
- <img width="100%" alt="image" src="https://github.com/user-attachments/assets/5528873f-6eef-4b96-a8eb-37c2108d0ec2" />
-
-</p>
-
 <h1 align="center">Web Portfolio Laravel</h1>
 
 <p align="center">
